@@ -1,0 +1,9 @@
+Git bash é um terminal extendido para otimizar o uso do GIT
+
+Primeiros Comandos
+
+git clone
+git status
+git add .
+git commit -m "notes do curso" 
+git push origin main - inclui a nova pasta online 
